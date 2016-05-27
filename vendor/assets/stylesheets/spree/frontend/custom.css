@@ -1,0 +1,93 @@
+@font-face{
+    font-family: "BenguiatFrisky";
+    src: url('/assets/BenguiatFrisky');
+}
+
+
+#spree-header .nav a{
+    color: #3DA482;
+}
+
+#spree-header #header {
+    background: #fff;
+}
+
+#spree-header{
+    background: #fff;
+}
+
+
+#spree-header .nav a:hover, #spree-header .nav a:focus{
+    color: #000;
+    background-color: #92d2bd;
+}
+
+.col-md-9 {
+    width: 100%;
+}
+
+html {
+        overflow-x: hidden;
+}
+
+.carousel {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    line-height: 1;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#spree-footer {
+    background: #ffffff;
+}
+
+a{
+    color: #000000;
+}
+
+h4{
+    color: #92d2bd;
+}
+
+p{
+    color: #000000;
+}
+
+h6{
+    color: #000000;
+}
+
+#spree-header .nav a {
+    color: #090909;
+}
+
+.navbar-nav ul li.active-link>a{
+    border-bottom: 1px solid #000;
+     color:#000;
+     padding-bottom:1px;
+ }
+ 
+ .panel-footer {
+    padding: 10px 15px;
+    background-color: #FFFFFF;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top: hidden;
+}
+
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #FFFFFF;
+    border: hidden;
+}
